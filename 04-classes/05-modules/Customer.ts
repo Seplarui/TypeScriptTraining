@@ -1,4 +1,4 @@
-class Customer {
+export class Customer {
 
     //Constructor
 
@@ -22,6 +22,5 @@ class Customer {
         this._lastName=value;
     }
 }
-
 
 
